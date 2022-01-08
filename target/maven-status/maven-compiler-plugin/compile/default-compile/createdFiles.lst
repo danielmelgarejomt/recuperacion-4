@@ -1,0 +1,6 @@
+com\usa\habilitacion\repository\ProductRepository.class
+com\usa\habilitacion\service\ProductService.class
+com\usa\habilitacion\repository\crudrepository\ProductCrudRepository.class
+com\usa\habilitacion\controller\ProductController.class
+com\usa\habilitacion\HabilitacionApplication.class
+com\usahabilitacion\product\Product.class
